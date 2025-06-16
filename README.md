@@ -31,7 +31,7 @@ Acesse a versão hospedada: <a href="https://moedaio.netlify.app/" target="_blan
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/conversor-moedas.git
+   git clone https://github.com/guilhermegodoydev/conversor-moeda.git
    cd conversor-moedas
    ```
 
