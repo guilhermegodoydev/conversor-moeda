@@ -13,11 +13,11 @@ Um conversor de moedas **em tempo real** que utiliza uma API externa para consul
   - Último ano
 
 ## 🎥 Demonstração
+### 💻 Versão Desktop
+![Versão Desktop](./src/assets/demonstracaoDesktop.gif)
 
-<p style="display: flex; align-items: center;">
-   <img src="./src/assets/demonstracaoDesktop.gif" alt="Versão Desktop" heigth="200px" width="48%">
-   <img src="./src/assets/demonstracaoMobile.gif" alt="Versão Mobile" heigth="200px" width="28%">
-</p>
+### 📱 Versão Mobile
+![Versão Mobile](./src/assets/demonstracaoMobile.gif)
 
 ## 🧰 Tecnologias Utilizadas
 
