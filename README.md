@@ -16,7 +16,7 @@ Um conversor de moedas **em tempo real** que utiliza uma API externa para consul
 
 <p style="display: flex; align-items: center;">
    <img src="./src/assets/demonstracaoDesktop.gif" alt="Versão Desktop" heigth="200px" width="48%">
-   <img src="./src/assets/demonstracaoMobile.gif" alt="Versão Mobile" heigth="200px" width="48%">
+   <img src="./src/assets/demonstracaoMobile.gif" alt="Versão Mobile" heigth="200px" width="28%">
 </p>
 
 ## 🧰 Tecnologias Utilizadas
